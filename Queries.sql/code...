@@ -1,3 +1,5 @@
+(Coding assistance provided by Pablo Esterson and John Hixson)
+
 *Create query to obtain emp number, first/last name, gender, and salary
 
 SELECT E.emp_no, E.first_name, E.last_name, E.gender, S.salary
